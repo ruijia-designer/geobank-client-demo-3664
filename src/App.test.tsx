@@ -1,5 +1,6 @@
 import {act,fireEvent,render,screen,within} from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
+import {StrictMode} from 'react';
 import {beforeEach,describe,expect,it,vi} from 'vitest';
 import App,{parseRoute} from './App';
 import {canRead,initialState,projectOptions,visibleProjects} from './services/demo';
@@ -73,7 +74,7 @@ describe('概览与跨页面流程',()=>{
 });
 describe('Demo 菜单与本地登录',()=>{
  it('首次访问及直达成果先显示登录页，成功登录后才能打开工作区',async()=>{
-  const u=userEvent.setup();sessionStorage.clear();window.history.replaceState(null,'','/#/results/1');render(<App/>);
+  const u=userEvent.setup();sessionStorage.clear();window.history.replaceState(null,'','/#/results/1');render(<StrictMode><App/></StrictMode>);
   expect(screen.getByRole('heading',{name:'欢迎登录'})).toBeInTheDocument();
   expect(screen.queryByRole('button',{name:'上传成果'})).not.toBeInTheDocument();
   expect(window.location.hash).toBe('#/login');
@@ -81,6 +82,8 @@ describe('Demo 菜单与本地登录',()=>{
   await u.type(screen.getByLabelText('密码',{exact:true}),'demo123{Enter}');
   expect(screen.getByRole('navigation',{name:'顶部导航'})).toBeInTheDocument();
   expect(sessionStorage.getItem('geobank-demo-authenticated-v1')).toBe('true');
+  await u.click(screen.getByRole('button',{name:'检索',exact:true}));
+  expect(screen.getByRole('heading',{name:'数据检索',exact:true})).toBeInTheDocument();
   await u.click(screen.getByRole('button',{name:'Demo 用户菜单'}));
   await u.click(screen.getByRole('menuitem',{name:/退出登录/}));
   expect(screen.getByRole('heading',{name:'欢迎登录'})).toBeInTheDocument();
