@@ -1,0 +1,2416 @@
+{
+  "source_sha256": "a70530a71d493e65cda2c33241169d76e084aab3fee1a570ace9ad42ed8a87a1",
+  "searchBase": "CFF813B7-A5FB-4772-BC93-875CB4415F54",
+  "searchStates": {
+    "CFF813B7-A5FB-4772-BC93-875CB4415F54": {
+      "field": "all",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "6CD2D003-C8F6-4C54-90F7-30F303816C73": {
+      "field": "basin",
+      "query": "沁水盆地",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "276F7372-EFD1-4C72-93A1-C420EE0544F0": {
+      "field": "type",
+      "query": "解释项目",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "E671B74A-6861-45AD-ABF6-58CFFF9973E9": {
+      "field": "year",
+      "query": "2024",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "F25FE1A8-F47D-426F-B6AC-3430461034C0": {
+      "field": "name",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "6E667D54-9CB1-4B9D-B12E-18726127ACD7": {
+      "field": "basin",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "53A03D50-FFC8-48F0-969B-032554267689": {
+      "field": "type",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "D7167EC8-06FD-43B5-B70B-3844C57F6EB5": {
+      "field": "year",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "512136DE-FB9F-4A42-A527-016782286826": {
+      "field": "all",
+      "query": "无匹配内容",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    },
+    "DAF22100-46AF-4A31-80BC-B5CAA5F04A4D": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "南襄盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "6C7C35A2-5996-4B85-A467-98A9AAE3D7CC": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "南黄海盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "1214CD68-D6D7-47BC-A4AE-30B212CA7CDF": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "北黄海盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "B2BB58C8-7E7A-46C5-BFE7-B882A062090F": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "松辽盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "810D3E2B-05AC-4234-ABA4-D5A1B1B7AC77": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "二连盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "A062236E-C0C4-4D17-A4BB-2C19BF59FC09": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "F2B9E870-0EE1-4FFF-8607-B7982C7509CD": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "采集项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "0814530B-CA13-4A80-B9A0-CE27E06DA660": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "处理项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "C33ADB2D-3C15-41A8-8418-C778B600ABA4": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "42F24A20-E6B1-4CBE-A3EE-B4D74B42BDB8": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "井筒项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "2AD19B6E-A18B-4EA0-B995-BCAF95070E5B": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "非地震项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "B6A4117F-EB2B-4ED0-B827-943B1E234003": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "二维"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "E8212793-B9A9-4152-9B63-3FA9D8AC5730": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "ECD069B1-FEFC-4E7D-B6DC-1779A9E0180E": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "043F8D0E-37F6-469B-8E7B-1CCEC5815BF3": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2024"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "1FDF8778-487D-4FEE-8531-661A69460679": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2025"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "27AD006C-BD67-4C86-8CA7-888DC8662968": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2026"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "1399F0E8-49C6-4720-8594-E34BC8744702": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "04C63B93-0276-443E-B2B3-1A1B301B9BF0": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "11533293-C99E-4C20-828D-0B7EC1588454": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "94E03759-8FA2-4637-85FE-FC8E0C7EA927": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "79F62AE8-CF83-47B9-957A-CBBD72E996D0": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "16E0DF46-D821-4F59-8ECA-A703FCF1AC94": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "F216C93C-9A64-46EC-A16D-2AAD399FA29E": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "7870BD53-EBD3-41F1-A13E-8A2540076B19": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "C52F8EBA-56A7-4075-A5DE-EFC7DAE528AD": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "419A0AA9-1ADE-4781-AF21-33E10E161EF8": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "45B5ABF2-A067-4985-9074-91FE96CE680E": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "86D60137-D61A-46C9-9A0A-8419E32B092C": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2023",
+          "2024"
+        ]
+      },
+      "ai": true,
+      "menu": false
+    },
+    "360E9291-2EF6-494E-8112-6D9E9E2239B1": {
+      "field": "all",
+      "query": "",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "8F518F6D-BD6A-4062-B70C-0EF32C551380": {
+      "field": "basin",
+      "query": "沁水盆地",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "BAAB36D3-7F12-4115-8814-15842D3851D9": {
+      "field": "type",
+      "query": "解释项目",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "B07D9A9C-B12F-4044-A730-F56E6960974D": {
+      "field": "year",
+      "query": "2024",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "6948D0A3-6068-4598-BBA0-E8169076EECE": {
+      "field": "name",
+      "query": "",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "BF4D8DDE-A772-4057-9C58-810AB4637AF7": {
+      "field": "basin",
+      "query": "",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "CC4EC05A-CE24-4F84-9E71-892C613E2F45": {
+      "field": "type",
+      "query": "",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "6350A118-4489-4E1E-83A3-5CCEE6C79058": {
+      "field": "year",
+      "query": "",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "AC7A3ACE-6F6A-48D8-81DC-72019B190CE7": {
+      "field": "all",
+      "query": "无匹配内容",
+      "filters": {},
+      "ai": false,
+      "menu": false
+    },
+    "AAEDD494-91E9-4377-BF49-95E459C017B2": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "南襄盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "5ABC68D0-DA04-40E3-9802-BF5309D67464": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "南黄海盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "6B1852B7-BC60-4374-8729-C74E2194F127": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "北黄海盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "AC4A9560-078D-4F2A-B798-223692290D9C": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "松辽盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "F6763C35-9FE3-46C1-9343-FC54BBE0E272": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "二连盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "5FF20B8C-629A-4F44-8CFD-E675F59D4A61": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "7EB6C9B4-89DB-4B0C-8360-7DBC60096C77": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "采集项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "4C68FD5C-D2C2-40BA-B74E-0C699E1F3506": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "处理项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "834FAC81-E3F2-4ACF-9C5C-5D1711CD7964": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "77A9506F-22BD-447E-B543-44BA51ABE8A1": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "井筒项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "8E71080C-0495-4156-B1A0-E76A00B9A94E": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "非地震项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "E601DE52-3039-484A-85FB-BA74C09273E3": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "二维"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "40D6EF6F-D347-4818-8887-4282961E2EE8": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "08B5211E-BCFF-4DF1-A450-359FF30D7E63": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "647CB94A-9E04-48AF-8F81-6108F27EA95B": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2024"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "05EDFC57-9B61-43C2-979F-EE5C95BC2EF7": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2025"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "D6BFA13A-1DE8-4D9B-AEB4-16A4770918D7": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2026"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "8499C052-E2C7-4FBE-B550-24DA6A01DE3E": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "C9964F11-120F-431B-A1F5-AE21065CFEE8": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "83A44253-0FEE-4FB4-9693-DFF9FCEB7FE5": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "00C88C75-F274-49C8-A7DC-A851BCD3E51B": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "3F002F69-DE2A-4682-A5B5-3F400F3BD935": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "273A5361-D69E-4064-89B7-5BC11E4F5DB3": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "5F5A9E7B-63C4-433C-9671-20B54CDFD2FF": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "AEC638CE-6623-4F2C-839A-CC8D51F170C2": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "9C9BB5C6-88FE-4712-8E11-238F727E8E54": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "type": [
+          "解释项目"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "93BF2374-F285-4C9A-A0FB-869ED7B5C820": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "basin": [
+          "渤海湾盆地"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "C68B5074-FAC7-4F06-8160-9F2009E28F89": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "type": [
+          "解释项目"
+        ],
+        "dimension": [
+          "三维"
+        ],
+        "year": [
+          "2023"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "913F14C0-8527-4F17-82F3-4090F64DD071": {
+      "field": "all",
+      "query": "",
+      "filters": {
+        "year": [
+          "2023",
+          "2024"
+        ]
+      },
+      "ai": false,
+      "menu": false
+    },
+    "23ABD11C-CE3B-4196-9F88-F06B2B253315": {
+      "field": "all",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": true
+    },
+    "1F7194D1-E415-4A2E-A7F1-D5310E6729A7": {
+      "field": "all",
+      "query": "",
+      "filters": {},
+      "ai": true,
+      "menu": false
+    }
+  },
+  "fields": [
+    [
+      "all",
+      "全部字段"
+    ],
+    [
+      "name",
+      "项目名称"
+    ],
+    [
+      "basin",
+      "盆地/工区"
+    ],
+    [
+      "type",
+      "项目类型"
+    ],
+    [
+      "year",
+      "年度"
+    ]
+  ],
+  "filters": {
+    "basin": [
+      "南襄盆地",
+      "南黄海盆地",
+      "北黄海盆地",
+      "松辽盆地",
+      "二连盆地",
+      "渤海湾盆地"
+    ],
+    "type": [
+      "采集项目",
+      "处理项目",
+      "解释项目",
+      "井筒项目",
+      "非地震项目"
+    ],
+    "dimension": [
+      "二维",
+      "三维"
+    ],
+    "year": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ]
+  },
+  "searchRecords": [
+    {
+      "id": "an13",
+      "name": "2024年山西地区三维地震资料处理解释技术服务-安13北",
+      "basin": "沁水盆地",
+      "areaName": "",
+      "type": "解释项目",
+      "dimension": "三维",
+      "year": "2024",
+      "archived": false
+    },
+    {
+      "id": "suqiao",
+      "name": "苏桥-信安镇潜山及内幕三维地震资料重新处理及解释",
+      "basin": "渤海湾盆地",
+      "areaName": "",
+      "type": "解释项目",
+      "dimension": "三维",
+      "year": "2023",
+      "archived": false
+    }
+  ],
+  "trials": [
+    {
+      "field": "basin",
+      "query": "沁水盆地"
+    },
+    {
+      "field": "type",
+      "query": "解释项目"
+    },
+    {
+      "field": "year",
+      "query": "2024"
+    }
+  ],
+  "approvalStates": {
+    "BE156B51-1BF0-4B1E-9A11-DE0D2A6949F8": {
+      "kind": "pending",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "1D5AD45E-219F-4E18-AEFE-E64D67D934F5": {
+      "kind": "pending",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "type",
+      "scenario": "passed"
+    },
+    "8912C12F-4925-4358-A86B-E36E31389D76": {
+      "kind": "pending",
+      "query": "",
+      "type": "archive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "5707ECED-9F85-4A4F-8439-34F8B4044452": {
+      "kind": "pending",
+      "query": "",
+      "type": "unarchive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "6AD83E0B-50A7-4EBE-B9AC-AD0CC66CD7DF": {
+      "kind": "pending",
+      "query": "",
+      "type": "download",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "CA5B8235-CF69-4865-BA1C-E6B996A119DC": {
+      "kind": "pending",
+      "query": "张室",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "2FA7B8F0-BB48-4AD2-91B7-A22C76B3477E": {
+      "kind": "pending",
+      "query": "无匹配内容",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "5B6AAEFA-B47A-414F-B424-A9B4398BCD21": {
+      "kind": "approved",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "991D8EBF-2832-4718-BA78-8D61B235942C": {
+      "kind": "approved",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "type",
+      "scenario": "passed"
+    },
+    "C5A7524F-4EA2-412C-AC51-3DDA92623A30": {
+      "kind": "approved",
+      "query": "",
+      "type": "archive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "05A27141-54B1-4EE2-8CE6-D8D96A246182": {
+      "kind": "approved",
+      "query": "",
+      "type": "unarchive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "63F891BA-3ACC-448B-8C09-7010D92B976B": {
+      "kind": "approved",
+      "query": "",
+      "type": "download",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "98EFDE2E-40B5-4DFA-9FC0-664F0AF2B66C": {
+      "kind": "approved",
+      "query": "张室",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "6F8E7EF5-657F-4BF2-891B-9172663E1032": {
+      "kind": "approved",
+      "query": "无匹配内容",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "782CDB26-7121-4603-B885-2C2BC9ABC37F": {
+      "kind": "copy",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "2AAD0166-C7DC-45E4-89A4-A28BC5F8E401": {
+      "kind": "copy",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "type",
+      "scenario": "passed"
+    },
+    "661FCBD9-7832-4143-B29B-133FA643D6C5": {
+      "kind": "copy",
+      "query": "",
+      "type": "archive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "32A9CC87-9264-4C25-AC33-EA2F90144714": {
+      "kind": "copy",
+      "query": "",
+      "type": "unarchive",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "3DD27C62-CCBC-477C-812B-6BDD04C0A8B8": {
+      "kind": "copy",
+      "query": "",
+      "type": "download",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "DF42267B-BA4B-46FD-804D-8E6BE6BAA597": {
+      "kind": "copy",
+      "query": "张三",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "83562DA0-3675-4F13-B38A-6A87BB3F0870": {
+      "kind": "copy",
+      "query": "无匹配内容",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "6799C660-2A9A-4547-82C3-4B931C0F0093": {
+      "kind": "approved",
+      "query": "",
+      "type": "all",
+      "status": "rejected",
+      "read": "all",
+      "menu": "",
+      "scenario": "rejected"
+    },
+    "0576E2EA-DFB7-40C9-879A-D020D70D7893": {
+      "kind": "approved",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "all",
+      "menu": "status",
+      "scenario": "passed"
+    },
+    "C9B43561-5CB6-4D6C-9CC5-9DCC3152380C": {
+      "kind": "approved",
+      "query": "",
+      "type": "all",
+      "status": "passed",
+      "read": "all",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "386AB5F7-940D-411C-A52D-A9E2BEBECF2D": {
+      "kind": "copy",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "read",
+      "menu": "",
+      "scenario": "passed"
+    },
+    "198ED40F-767F-42A5-A601-15ABB704CA7E": {
+      "kind": "copy",
+      "query": "",
+      "type": "all",
+      "status": "all",
+      "read": "unread",
+      "menu": "",
+      "scenario": "passed"
+    }
+  },
+  "approvalRecords": {
+    "approved": {
+      "id": "GD-20261004-0001",
+      "name": "2024年廊固凹陷刘其营构造带深潜山及内幕叠前成像与目标研究攻关",
+      "initiator": "张室",
+      "type": "archive",
+      "typeLabel": "项目归档审批",
+      "date": "2026-10-04 21:43",
+      "basin": "渤海湾盆地",
+      "projectType": "处理",
+      "reason": "数据录入完毕，申请归档。",
+      "opinion": "—",
+      "status": "passed"
+    },
+    "copy": [
+      {
+        "id": "GD-2026-0720-045",
+        "name": "东深1井区三维采集",
+        "initiator": "张三",
+        "date": "2026-07-20 14:30",
+        "note": "相关项目归档，供参考。",
+        "type": "archive",
+        "typeLabel": "项目归档审批",
+        "read": true
+      },
+      {
+        "id": "JD-2026-0715-023",
+        "name": "塔中XX三维采集",
+        "initiator": "李四",
+        "date": "2026-07-15 09:15",
+        "note": "数据解档申请，抄送知悉。",
+        "type": "unarchive",
+        "typeLabel": "项目解档审批",
+        "read": true
+      },
+      {
+        "id": "DL-2026-0710-012",
+        "name": "渤深项目三维处理",
+        "initiator": "王五",
+        "date": "2026-07-10 16:45",
+        "note": "数据下载申请，知会相关科室。",
+        "type": "download",
+        "typeLabel": "数据下载订单",
+        "read": false
+      },
+      {
+        "id": "GD-2026-0705-038",
+        "name": "大安1井区三维处理",
+        "initiator": "赵六",
+        "date": "2026-07-05 11:20",
+        "note": "项目归档完成，存档备查。",
+        "type": "archive",
+        "typeLabel": "项目归档审批",
+        "read": false
+      },
+      {
+        "id": "JD-2026-0628-017",
+        "name": "苏里格三维",
+        "initiator": "张三",
+        "date": "2026-06-28 08:50",
+        "note": "历史数据解档，供项目参考。",
+        "type": "unarchive",
+        "typeLabel": "项目解档审批",
+        "read": true
+      }
+    ]
+  },
+  "approvalTypes": [
+    [
+      "all",
+      "全部类型"
+    ],
+    [
+      "archive",
+      "项目归档审批"
+    ],
+    [
+      "unarchive",
+      "项目解档审批"
+    ],
+    [
+      "download",
+      "数据下载审批"
+    ]
+  ],
+  "approvalBases": {
+    "pending": "BE156B51-1BF0-4B1E-9A11-DE0D2A6949F8",
+    "approved": "5B6AAEFA-B47A-414F-B424-A9B4398BCD21",
+    "copy": "782CDB26-7121-4603-B885-2C2BC9ABC37F"
+  },
+  "approvalDetails": {
+    "node": "C37AF48E-AA57-4233-AEA1-90DC04330306",
+    "archive": "51AADA91-9F27-4066-993F-EC357ABFAB24",
+    "copy": "29FF01E8-ED1B-4179-A405-F85988463A91"
+  },
+  "projects": [
+    {
+      "key": "current",
+      "name": "2024年山西地区三维地震资料处理解释技术服务-安13北",
+      "basin": "沁水盆地",
+      "type": "解释项目",
+      "year": "2024",
+      "area": "96.8",
+      "readable": true,
+      "dataId": "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4"
+    },
+    {
+      "name": "2024年山西省左权西乡处理项目",
+      "year": "2024",
+      "basin": "沁水盆地",
+      "type": "三维陆上常规采集",
+      "area": "596",
+      "point": [
+        1128,
+        413
+      ],
+      "readable": true,
+      "dataId": "AD207F49-1564-496A-A4E0-E4979F6693F8",
+      "key": "0"
+    },
+    {
+      "name": "2024年山西省左权西乡煤层气区块三维地震采集项目",
+      "year": "2024",
+      "basin": "鄂尔多斯盆地",
+      "type": "三维陆上混叠采集",
+      "area": "320",
+      "point": [
+        1032,
+        319
+      ],
+      "readable": true,
+      "dataId": "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7",
+      "key": "1"
+    },
+    {
+      "name": "2023年C解释项目",
+      "year": "2023",
+      "basin": "渤海湾盆地",
+      "type": "三维陆上解释",
+      "area": "480",
+      "point": [
+        1272,
+        344
+      ],
+      "readable": false,
+      "key": "2"
+    },
+    {
+      "name": "2023年D采集项目",
+      "year": "2023",
+      "basin": "四川盆地",
+      "type": "三维 OBN 常规采集",
+      "area": "730",
+      "point": [
+        949,
+        572
+      ],
+      "readable": true,
+      "dataId": "68886A06-B114-4C60-B12D-CA9E7E83DEB4",
+      "key": "3"
+    },
+    {
+      "name": "2023年山西省左权西乡煤层气区块三维地震处理项目",
+      "year": "2023",
+      "basin": "准噶尔盆地",
+      "type": "三维陆上处理",
+      "area": "410",
+      "point": [
+        538,
+        124
+      ],
+      "readable": false,
+      "key": "4"
+    },
+    {
+      "name": "2023年F解释项目",
+      "year": "2023",
+      "basin": "松辽盆地",
+      "type": "三维陆上解释",
+      "area": "285",
+      "point": [
+        1413,
+        122
+      ],
+      "readable": false,
+      "key": "5"
+    }
+  ],
+  "selectorBoards": {
+    "E81E3D24-29BA-46BF-8EB5-3A04DA65FC4C": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "38F746D2-9434-4ADF-83E8-2DE7A1BBADBF": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "D0024A83-8115-4848-A463-EE831C4054E8": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4": {
+      "rect": [
+        16,
+        74.0,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34": {
+      "rect": [
+        16,
+        74,
+        194,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "F75AF769-CAE0-4B45-82DA-DA456947E632": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "45F6E1F3-FEC4-4394-84F2-22B09E67644B": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "5BE62ABA-2270-482E-989B-F6ADF3DC5DE4": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "D08F4576-96E6-4C1E-B112-090192782F58": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "6B9DD82C-947C-4343-8D56-4A498FB58060": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "E032D460-0B1E-43D5-B2A1-9E15F3C0CB8D": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "84A97D63-88F5-42C8-B567-50E4F8291E43": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "EC0D4342-62BB-42AA-B501-850CBB55CAE4": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "35536DFE-EB94-4E75-A874-9FCADFFA200C": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "2641B2EA-8420-4204-B982-B8F65950FD98": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": true
+    },
+    "042BFA09-754D-4527-9203-021EBAE6EF90": {
+      "rect": [
+        16,
+        74,
+        1603,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "AD207F49-1564-496A-A4E0-E4979F6693F8": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "0",
+      "modal": false
+    },
+    "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "1",
+      "modal": false
+    },
+    "68886A06-B114-4C60-B12D-CA9E7E83DEB4": {
+      "rect": [
+        16,
+        74,
+        860,
+        36
+      ],
+      "projectKey": "3",
+      "modal": false
+    },
+    "017A322C-0A58-4E61-9840-696A7E97D5A5": {
+      "rect": [
+        16,
+        74,
+        194,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false
+    },
+    "AEDB8825-ED28-418A-8C6A-9C272259A62B": {
+      "rect": [
+        16,
+        74,
+        194,
+        36
+      ],
+      "projectKey": "0",
+      "modal": false
+    },
+    "912BADE8-51F3-45F8-A281-A85FD6FF014D": {
+      "rect": [
+        16,
+        74,
+        194,
+        36
+      ],
+      "projectKey": "1",
+      "modal": false
+    },
+    "998E0955-E4AB-449B-B333-7B24FF7F9123": {
+      "rect": [
+        16,
+        74,
+        194,
+        36
+      ],
+      "projectKey": "3",
+      "modal": false
+    },
+    "FF4A2794-D355-471B-9DDE-3608F1A88B87": {
+      "rect": [
+        16,
+        74.0,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false,
+      "menu": true,
+      "query": ""
+    },
+    "CEC8C78D-AFBC-43BD-A8D1-5BABC389277B": {
+      "rect": [
+        16,
+        74.0,
+        860,
+        36
+      ],
+      "projectKey": "current",
+      "modal": false,
+      "menu": true,
+      "query": "山西"
+    }
+  },
+  "selectorMenuIds": [
+    "FF4A2794-D355-471B-9DDE-3608F1A88B87",
+    "CEC8C78D-AFBC-43BD-A8D1-5BABC389277B"
+  ],
+  "rightMaxTargets": {
+    "E81E3D24-29BA-46BF-8EB5-3A04DA65FC4C": "017A322C-0A58-4E61-9840-696A7E97D5A5",
+    "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4": "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34",
+    "AD207F49-1564-496A-A4E0-E4979F6693F8": "AEDB8825-ED28-418A-8C6A-9C272259A62B",
+    "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7": "912BADE8-51F3-45F8-A281-A85FD6FF014D",
+    "68886A06-B114-4C60-B12D-CA9E7E83DEB4": "998E0955-E4AB-449B-B333-7B24FF7F9123",
+    "D08F4576-96E6-4C1E-B112-090192782F58": "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34"
+  },
+  "maximizedIds": [
+    "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34",
+    "017A322C-0A58-4E61-9840-696A7E97D5A5",
+    "AEDB8825-ED28-418A-8C6A-9C272259A62B",
+    "912BADE8-51F3-45F8-A281-A85FD6FF014D",
+    "998E0955-E4AB-449B-B333-7B24FF7F9123"
+  ],
+  "semanticFields": {
+    "E81E3D24-29BA-46BF-8EB5-3A04DA65FC4C": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "maplabel",
+        "rect": [
+          1334,
+          506,
+          160,
+          23
+        ],
+        "size": 13
+      }
+    ],
+    "38F746D2-9434-4ADF-83E8-2DE7A1BBADBF": [
+      {
+        "kind": "name",
+        "rect": [
+          464,
+          233,
+          1412,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          464,
+          281,
+          215,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          863,
+          329,
+          215,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          1262,
+          377,
+          614,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "D0024A83-8115-4848-A463-EE831C4054E8": [],
+    "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217.0,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249.0,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313.0,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409.0,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34": [],
+    "F75AF769-CAE0-4B45-82DA-DA456947E632": [],
+    "45F6E1F3-FEC4-4394-84F2-22B09E67644B": [
+      {
+        "kind": "name",
+        "rect": [
+          464,
+          233,
+          1412,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          464,
+          281,
+          215,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          863,
+          329,
+          215,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          1262,
+          377,
+          614,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "5BE62ABA-2270-482E-989B-F6ADF3DC5DE4": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "D08F4576-96E6-4C1E-B112-090192782F58": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "6B9DD82C-947C-4343-8D56-4A498FB58060": [],
+    "E032D460-0B1E-43D5-B2A1-9E15F3C0CB8D": [],
+    "84A97D63-88F5-42C8-B567-50E4F8291E43": [],
+    "EC0D4342-62BB-42AA-B501-850CBB55CAE4": [],
+    "35536DFE-EB94-4E75-A874-9FCADFFA200C": [],
+    "2641B2EA-8420-4204-B982-B8F65950FD98": [],
+    "042BFA09-754D-4527-9203-021EBAE6EF90": [],
+    "AD207F49-1564-496A-A4E0-E4979F6693F8": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "68886A06-B114-4C60-B12D-CA9E7E83DEB4": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "017A322C-0A58-4E61-9840-696A7E97D5A5": [
+      {
+        "kind": "maplabel",
+        "rect": [
+          956,
+          506,
+          160,
+          23
+        ],
+        "size": 13
+      }
+    ],
+    "AEDB8825-ED28-418A-8C6A-9C272259A62B": [],
+    "912BADE8-51F3-45F8-A281-A85FD6FF014D": [],
+    "998E0955-E4AB-449B-B333-7B24FF7F9123": [],
+    "FF4A2794-D355-471B-9DDE-3608F1A88B87": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ],
+    "CEC8C78D-AFBC-43BD-A8D1-5BABC389277B": [
+      {
+        "kind": "name",
+        "rect": [
+          448,
+          217,
+          575,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "basin",
+        "rect": [
+          448,
+          249,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "area",
+        "rect": [
+          819.5,
+          313,
+          203.5,
+          22
+        ],
+        "size": 14
+      },
+      {
+        "kind": "year",
+        "rect": [
+          448,
+          409,
+          575,
+          22
+        ],
+        "size": 14
+      }
+    ]
+  },
+  "mapFull": "017A322C-0A58-4E61-9840-696A7E97D5A5",
+  "resultsBase": "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4",
+  "gisBase": "E81E3D24-29BA-46BF-8EB5-3A04DA65FC4C",
+  "changedIds": [
+    "00C88C75-F274-49C8-A7DC-A851BCD3E51B",
+    "017A322C-0A58-4E61-9840-696A7E97D5A5",
+    "042BFA09-754D-4527-9203-021EBAE6EF90",
+    "043F8D0E-37F6-469B-8E7B-1CCEC5815BF3",
+    "04C63B93-0276-443E-B2B3-1A1B301B9BF0",
+    "0576E2EA-DFB7-40C9-879A-D020D70D7893",
+    "05A27141-54B1-4EE2-8CE6-D8D96A246182",
+    "05EDFC57-9B61-43C2-979F-EE5C95BC2EF7",
+    "0814530B-CA13-4A80-B9A0-CE27E06DA660",
+    "08B5211E-BCFF-4DF1-A450-359FF30D7E63",
+    "11533293-C99E-4C20-828D-0B7EC1588454",
+    "1214CD68-D6D7-47BC-A4AE-30B212CA7CDF",
+    "1399F0E8-49C6-4720-8594-E34BC8744702",
+    "16E0DF46-D821-4F59-8ECA-A703FCF1AC94",
+    "198ED40F-767F-42A5-A601-15ABB704CA7E",
+    "1D5AD45E-219F-4E18-AEFE-E64D67D934F5",
+    "1F7194D1-E415-4A2E-A7F1-D5310E6729A7",
+    "1FDF8778-487D-4FEE-8531-661A69460679",
+    "23ABD11C-CE3B-4196-9F88-F06B2B253315",
+    "2641B2EA-8420-4204-B982-B8F65950FD98",
+    "273A5361-D69E-4064-89B7-5BC11E4F5DB3",
+    "276F7372-EFD1-4C72-93A1-C420EE0544F0",
+    "27AD006C-BD67-4C86-8CA7-888DC8662968",
+    "29FF01E8-ED1B-4179-A405-F85988463A91",
+    "2AAD0166-C7DC-45E4-89A4-A28BC5F8E401",
+    "2AD19B6E-A18B-4EA0-B995-BCAF95070E5B",
+    "2FA7B8F0-BB48-4AD2-91B7-A22C76B3477E",
+    "32A9CC87-9264-4C25-AC33-EA2F90144714",
+    "35536DFE-EB94-4E75-A874-9FCADFFA200C",
+    "360E9291-2EF6-494E-8112-6D9E9E2239B1",
+    "36CA5DD4-EFAA-4B68-AB87-AE630EE9DB34",
+    "386AB5F7-940D-411C-A52D-A9E2BEBECF2D",
+    "38F746D2-9434-4ADF-83E8-2DE7A1BBADBF",
+    "3DD27C62-CCBC-477C-812B-6BDD04C0A8B8",
+    "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7",
+    "3F002F69-DE2A-4682-A5B5-3F400F3BD935",
+    "40D6EF6F-D347-4818-8887-4282961E2EE8",
+    "419A0AA9-1ADE-4781-AF21-33E10E161EF8",
+    "42F24A20-E6B1-4CBE-A3EE-B4D74B42BDB8",
+    "45B5ABF2-A067-4985-9074-91FE96CE680E",
+    "45F6E1F3-FEC4-4394-84F2-22B09E67644B",
+    "4C68FD5C-D2C2-40BA-B74E-0C699E1F3506",
+    "512136DE-FB9F-4A42-A527-016782286826",
+    "51AADA91-9F27-4066-993F-EC357ABFAB24",
+    "53A03D50-FFC8-48F0-969B-032554267689",
+    "5707ECED-9F85-4A4F-8439-34F8B4044452",
+    "5ABC68D0-DA04-40E3-9802-BF5309D67464",
+    "5B6AAEFA-B47A-414F-B424-A9B4398BCD21",
+    "5BE62ABA-2270-482E-989B-F6ADF3DC5DE4",
+    "5F5A9E7B-63C4-433C-9671-20B54CDFD2FF",
+    "5FF20B8C-629A-4F44-8CFD-E675F59D4A61",
+    "6350A118-4489-4E1E-83A3-5CCEE6C79058",
+    "63F891BA-3ACC-448B-8C09-7010D92B976B",
+    "647CB94A-9E04-48AF-8F81-6108F27EA95B",
+    "661FCBD9-7832-4143-B29B-133FA643D6C5",
+    "6799C660-2A9A-4547-82C3-4B931C0F0093",
+    "68886A06-B114-4C60-B12D-CA9E7E83DEB4",
+    "6948D0A3-6068-4598-BBA0-E8169076EECE",
+    "6AD83E0B-50A7-4EBE-B9AC-AD0CC66CD7DF",
+    "6B1852B7-BC60-4374-8729-C74E2194F127",
+    "6B9DD82C-947C-4343-8D56-4A498FB58060",
+    "6C7C35A2-5996-4B85-A467-98A9AAE3D7CC",
+    "6CD2D003-C8F6-4C54-90F7-30F303816C73",
+    "6DAE4532-E879-4DEA-87AE-9C443DA9EBE4",
+    "6E667D54-9CB1-4B9D-B12E-18726127ACD7",
+    "6F8E7EF5-657F-4BF2-891B-9172663E1032",
+    "77A9506F-22BD-447E-B543-44BA51ABE8A1",
+    "782CDB26-7121-4603-B885-2C2BC9ABC37F",
+    "7870BD53-EBD3-41F1-A13E-8A2540076B19",
+    "79F62AE8-CF83-47B9-957A-CBBD72E996D0",
+    "7EB6C9B4-89DB-4B0C-8360-7DBC60096C77",
+    "810D3E2B-05AC-4234-ABA4-D5A1B1B7AC77",
+    "834FAC81-E3F2-4ACF-9C5C-5D1711CD7964",
+    "83562DA0-3675-4F13-B38A-6A87BB3F0870",
+    "83A44253-0FEE-4FB4-9693-DFF9FCEB7FE5",
+    "8499C052-E2C7-4FBE-B550-24DA6A01DE3E",
+    "84A97D63-88F5-42C8-B567-50E4F8291E43",
+    "86D60137-D61A-46C9-9A0A-8419E32B092C",
+    "8912C12F-4925-4358-A86B-E36E31389D76",
+    "8E71080C-0495-4156-B1A0-E76A00B9A94E",
+    "8F518F6D-BD6A-4062-B70C-0EF32C551380",
+    "912BADE8-51F3-45F8-A281-A85FD6FF014D",
+    "913F14C0-8527-4F17-82F3-4090F64DD071",
+    "93BF2374-F285-4C9A-A0FB-869ED7B5C820",
+    "94E03759-8FA2-4637-85FE-FC8E0C7EA927",
+    "98EFDE2E-40B5-4DFA-9FC0-664F0AF2B66C",
+    "991D8EBF-2832-4718-BA78-8D61B235942C",
+    "998E0955-E4AB-449B-B333-7B24FF7F9123",
+    "9C9BB5C6-88FE-4712-8E11-238F727E8E54",
+    "A062236E-C0C4-4D17-A4BB-2C19BF59FC09",
+    "AAEDD494-91E9-4377-BF49-95E459C017B2",
+    "AC4A9560-078D-4F2A-B798-223692290D9C",
+    "AC7A3ACE-6F6A-48D8-81DC-72019B190CE7",
+    "AD207F49-1564-496A-A4E0-E4979F6693F8",
+    "AEC638CE-6623-4F2C-839A-CC8D51F170C2",
+    "AEDB8825-ED28-418A-8C6A-9C272259A62B",
+    "B07D9A9C-B12F-4044-A730-F56E6960974D",
+    "B2BB58C8-7E7A-46C5-BFE7-B882A062090F",
+    "B6A4117F-EB2B-4ED0-B827-943B1E234003",
+    "BAAB36D3-7F12-4115-8814-15842D3851D9",
+    "BE156B51-1BF0-4B1E-9A11-DE0D2A6949F8",
+    "BF4D8DDE-A772-4057-9C58-810AB4637AF7",
+    "C33ADB2D-3C15-41A8-8418-C778B600ABA4",
+    "C37AF48E-AA57-4233-AEA1-90DC04330306",
+    "C52F8EBA-56A7-4075-A5DE-EFC7DAE528AD",
+    "C5A7524F-4EA2-412C-AC51-3DDA92623A30",
+    "C68B5074-FAC7-4F06-8160-9F2009E28F89",
+    "C9964F11-120F-431B-A1F5-AE21065CFEE8",
+    "C9B43561-5CB6-4D6C-9CC5-9DCC3152380C",
+    "CA5B8235-CF69-4865-BA1C-E6B996A119DC",
+    "CC4EC05A-CE24-4F84-9E71-892C613E2F45",
+    "CEC8C78D-AFBC-43BD-A8D1-5BABC389277B",
+    "CFF813B7-A5FB-4772-BC93-875CB4415F54",
+    "D0024A83-8115-4848-A463-EE831C4054E8",
+    "D08F4576-96E6-4C1E-B112-090192782F58",
+    "D6BFA13A-1DE8-4D9B-AEB4-16A4770918D7",
+    "D7167EC8-06FD-43B5-B70B-3844C57F6EB5",
+    "DAF22100-46AF-4A31-80BC-B5CAA5F04A4D",
+    "DF42267B-BA4B-46FD-804D-8E6BE6BAA597",
+    "E032D460-0B1E-43D5-B2A1-9E15F3C0CB8D",
+    "E601DE52-3039-484A-85FB-BA74C09273E3",
+    "E671B74A-6861-45AD-ABF6-58CFFF9973E9",
+    "E81E3D24-29BA-46BF-8EB5-3A04DA65FC4C",
+    "E8212793-B9A9-4152-9B63-3FA9D8AC5730",
+    "EC0D4342-62BB-42AA-B501-850CBB55CAE4",
+    "ECD069B1-FEFC-4E7D-B6DC-1779A9E0180E",
+    "F216C93C-9A64-46EC-A16D-2AAD399FA29E",
+    "F25FE1A8-F47D-426F-B6AC-3430461034C0",
+    "F2B9E870-0EE1-4FFF-8607-B7982C7509CD",
+    "F6763C35-9FE3-46C1-9343-FC54BBE0E272",
+    "F75AF769-CAE0-4B45-82DA-DA456947E632",
+    "FF4A2794-D355-471B-9DDE-3608F1A88B87"
+  ],
+  "newIds": [
+    "6CD2D003-C8F6-4C54-90F7-30F303816C73",
+    "276F7372-EFD1-4C72-93A1-C420EE0544F0",
+    "E671B74A-6861-45AD-ABF6-58CFFF9973E9",
+    "F25FE1A8-F47D-426F-B6AC-3430461034C0",
+    "6E667D54-9CB1-4B9D-B12E-18726127ACD7",
+    "53A03D50-FFC8-48F0-969B-032554267689",
+    "D7167EC8-06FD-43B5-B70B-3844C57F6EB5",
+    "512136DE-FB9F-4A42-A527-016782286826",
+    "DAF22100-46AF-4A31-80BC-B5CAA5F04A4D",
+    "6C7C35A2-5996-4B85-A467-98A9AAE3D7CC",
+    "1214CD68-D6D7-47BC-A4AE-30B212CA7CDF",
+    "B2BB58C8-7E7A-46C5-BFE7-B882A062090F",
+    "810D3E2B-05AC-4234-ABA4-D5A1B1B7AC77",
+    "A062236E-C0C4-4D17-A4BB-2C19BF59FC09",
+    "F2B9E870-0EE1-4FFF-8607-B7982C7509CD",
+    "0814530B-CA13-4A80-B9A0-CE27E06DA660",
+    "C33ADB2D-3C15-41A8-8418-C778B600ABA4",
+    "42F24A20-E6B1-4CBE-A3EE-B4D74B42BDB8",
+    "2AD19B6E-A18B-4EA0-B995-BCAF95070E5B",
+    "B6A4117F-EB2B-4ED0-B827-943B1E234003",
+    "E8212793-B9A9-4152-9B63-3FA9D8AC5730",
+    "ECD069B1-FEFC-4E7D-B6DC-1779A9E0180E",
+    "043F8D0E-37F6-469B-8E7B-1CCEC5815BF3",
+    "1FDF8778-487D-4FEE-8531-661A69460679",
+    "27AD006C-BD67-4C86-8CA7-888DC8662968",
+    "1399F0E8-49C6-4720-8594-E34BC8744702",
+    "04C63B93-0276-443E-B2B3-1A1B301B9BF0",
+    "11533293-C99E-4C20-828D-0B7EC1588454",
+    "94E03759-8FA2-4637-85FE-FC8E0C7EA927",
+    "79F62AE8-CF83-47B9-957A-CBBD72E996D0",
+    "16E0DF46-D821-4F59-8ECA-A703FCF1AC94",
+    "F216C93C-9A64-46EC-A16D-2AAD399FA29E",
+    "7870BD53-EBD3-41F1-A13E-8A2540076B19",
+    "C52F8EBA-56A7-4075-A5DE-EFC7DAE528AD",
+    "419A0AA9-1ADE-4781-AF21-33E10E161EF8",
+    "45B5ABF2-A067-4985-9074-91FE96CE680E",
+    "86D60137-D61A-46C9-9A0A-8419E32B092C",
+    "360E9291-2EF6-494E-8112-6D9E9E2239B1",
+    "8F518F6D-BD6A-4062-B70C-0EF32C551380",
+    "BAAB36D3-7F12-4115-8814-15842D3851D9",
+    "B07D9A9C-B12F-4044-A730-F56E6960974D",
+    "6948D0A3-6068-4598-BBA0-E8169076EECE",
+    "BF4D8DDE-A772-4057-9C58-810AB4637AF7",
+    "CC4EC05A-CE24-4F84-9E71-892C613E2F45",
+    "6350A118-4489-4E1E-83A3-5CCEE6C79058",
+    "AC7A3ACE-6F6A-48D8-81DC-72019B190CE7",
+    "AAEDD494-91E9-4377-BF49-95E459C017B2",
+    "5ABC68D0-DA04-40E3-9802-BF5309D67464",
+    "6B1852B7-BC60-4374-8729-C74E2194F127",
+    "AC4A9560-078D-4F2A-B798-223692290D9C",
+    "F6763C35-9FE3-46C1-9343-FC54BBE0E272",
+    "5FF20B8C-629A-4F44-8CFD-E675F59D4A61",
+    "7EB6C9B4-89DB-4B0C-8360-7DBC60096C77",
+    "4C68FD5C-D2C2-40BA-B74E-0C699E1F3506",
+    "834FAC81-E3F2-4ACF-9C5C-5D1711CD7964",
+    "77A9506F-22BD-447E-B543-44BA51ABE8A1",
+    "8E71080C-0495-4156-B1A0-E76A00B9A94E",
+    "E601DE52-3039-484A-85FB-BA74C09273E3",
+    "40D6EF6F-D347-4818-8887-4282961E2EE8",
+    "08B5211E-BCFF-4DF1-A450-359FF30D7E63",
+    "647CB94A-9E04-48AF-8F81-6108F27EA95B",
+    "05EDFC57-9B61-43C2-979F-EE5C95BC2EF7",
+    "D6BFA13A-1DE8-4D9B-AEB4-16A4770918D7",
+    "8499C052-E2C7-4FBE-B550-24DA6A01DE3E",
+    "C9964F11-120F-431B-A1F5-AE21065CFEE8",
+    "83A44253-0FEE-4FB4-9693-DFF9FCEB7FE5",
+    "00C88C75-F274-49C8-A7DC-A851BCD3E51B",
+    "3F002F69-DE2A-4682-A5B5-3F400F3BD935",
+    "273A5361-D69E-4064-89B7-5BC11E4F5DB3",
+    "5F5A9E7B-63C4-433C-9671-20B54CDFD2FF",
+    "AEC638CE-6623-4F2C-839A-CC8D51F170C2",
+    "9C9BB5C6-88FE-4712-8E11-238F727E8E54",
+    "93BF2374-F285-4C9A-A0FB-869ED7B5C820",
+    "C68B5074-FAC7-4F06-8160-9F2009E28F89",
+    "913F14C0-8527-4F17-82F3-4090F64DD071",
+    "23ABD11C-CE3B-4196-9F88-F06B2B253315",
+    "1D5AD45E-219F-4E18-AEFE-E64D67D934F5",
+    "8912C12F-4925-4358-A86B-E36E31389D76",
+    "5707ECED-9F85-4A4F-8439-34F8B4044452",
+    "6AD83E0B-50A7-4EBE-B9AC-AD0CC66CD7DF",
+    "CA5B8235-CF69-4865-BA1C-E6B996A119DC",
+    "2FA7B8F0-BB48-4AD2-91B7-A22C76B3477E",
+    "991D8EBF-2832-4718-BA78-8D61B235942C",
+    "C5A7524F-4EA2-412C-AC51-3DDA92623A30",
+    "05A27141-54B1-4EE2-8CE6-D8D96A246182",
+    "63F891BA-3ACC-448B-8C09-7010D92B976B",
+    "98EFDE2E-40B5-4DFA-9FC0-664F0AF2B66C",
+    "6F8E7EF5-657F-4BF2-891B-9172663E1032",
+    "2AAD0166-C7DC-45E4-89A4-A28BC5F8E401",
+    "661FCBD9-7832-4143-B29B-133FA643D6C5",
+    "32A9CC87-9264-4C25-AC33-EA2F90144714",
+    "3DD27C62-CCBC-477C-812B-6BDD04C0A8B8",
+    "DF42267B-BA4B-46FD-804D-8E6BE6BAA597",
+    "83562DA0-3675-4F13-B38A-6A87BB3F0870",
+    "C9B43561-5CB6-4D6C-9CC5-9DCC3152380C",
+    "386AB5F7-940D-411C-A52D-A9E2BEBECF2D",
+    "198ED40F-767F-42A5-A601-15ABB704CA7E",
+    "017A322C-0A58-4E61-9840-696A7E97D5A5",
+    "AEDB8825-ED28-418A-8C6A-9C272259A62B",
+    "912BADE8-51F3-45F8-A281-A85FD6FF014D",
+    "998E0955-E4AB-449B-B333-7B24FF7F9123",
+    "FF4A2794-D355-471B-9DDE-3608F1A88B87",
+    "CEC8C78D-AFBC-43BD-A8D1-5BABC389277B"
+  ],
+  "archivedIds": [
+    "8E9A7048-D720-4D28-B364-8384AA89652E"
+  ]
+}

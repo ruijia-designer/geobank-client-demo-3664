@@ -1,0 +1,89 @@
+[
+  {
+    "name": "2024年山西省左权西乡处理项目",
+    "year": "2024",
+    "basin": "沁水盆地",
+    "type": "三维陆上常规采集",
+    "area": "596",
+    "point": [
+      1128,
+      413
+    ],
+    "readable": true,
+    "dataId": "AD207F49-1564-496A-A4E0-E4979F6693F8",
+    "id": "0",
+    "archived": false
+  },
+  {
+    "name": "2024年山西省左权西乡煤层气区块三维地震采集项目",
+    "year": "2024",
+    "basin": "鄂尔多斯盆地",
+    "type": "三维陆上混叠采集",
+    "area": "320",
+    "point": [
+      1032,
+      319
+    ],
+    "readable": true,
+    "dataId": "3E00B6E2-7C3F-455E-A12D-9C9D20A1C3C7",
+    "id": "1",
+    "archived": false
+  },
+  {
+    "name": "2023年C解释项目",
+    "year": "2023",
+    "basin": "渤海湾盆地",
+    "type": "三维陆上解释",
+    "area": "480",
+    "point": [
+      1272,
+      344
+    ],
+    "readable": false,
+    "id": "2",
+    "archived": true
+  },
+  {
+    "name": "2023年D采集项目",
+    "year": "2023",
+    "basin": "四川盆地",
+    "type": "三维 OBN 常规采集",
+    "area": "730",
+    "point": [
+      949,
+      572
+    ],
+    "readable": true,
+    "dataId": "68886A06-B114-4C60-B12D-CA9E7E83DEB4",
+    "id": "3",
+    "archived": false
+  },
+  {
+    "name": "2023年山西省左权西乡煤层气区块三维地震处理项目",
+    "year": "2023",
+    "basin": "准噶尔盆地",
+    "type": "三维陆上处理",
+    "area": "410",
+    "point": [
+      538,
+      124
+    ],
+    "readable": false,
+    "id": "4",
+    "archived": true
+  },
+  {
+    "name": "2023年F解释项目",
+    "year": "2023",
+    "basin": "松辽盆地",
+    "type": "三维陆上解释",
+    "area": "285",
+    "point": [
+      1413,
+      122
+    ],
+    "readable": false,
+    "id": "5",
+    "archived": true
+  }
+]
