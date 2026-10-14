@@ -82,8 +82,8 @@ describe('Demo 菜单与本地登录',()=>{
   await u.type(screen.getByLabelText('密码',{exact:true}),'demo123{Enter}');
   expect(screen.getByRole('navigation',{name:'顶部导航'})).toBeInTheDocument();
   expect(sessionStorage.getItem('geobank-demo-authenticated-v1')).toBe('true');
-  await u.click(screen.getByRole('button',{name:'检索',exact:true}));
-  expect(screen.getByRole('heading',{name:'数据检索',exact:true})).toBeInTheDocument();
+  await u.click(screen.getByRole('button',{name:'检索'}));
+  expect(screen.getByRole('heading',{name:'数据检索'})).toBeInTheDocument();
   await u.click(screen.getByRole('button',{name:'Demo 用户菜单'}));
   await u.click(screen.getByRole('menuitem',{name:/退出登录/}));
   expect(screen.getByRole('heading',{name:'欢迎登录'})).toBeInTheDocument();
