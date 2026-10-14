@@ -57,6 +57,10 @@ describe('概览与跨页面流程',()=>{
  });
  it('创建项目后直接进入空成果，再经概览返回仍为新项目',async()=>{
   const u=userEvent.setup();render(<App/>);
+  await u.click(screen.getByRole('button',{name:'成果'}));
+  await u.click(screen.getByRole('button',{name:'最大化右侧内容'}));
+  await u.click(screen.getByRole('button',{name:'最大化项目信息'}));
+  await u.click(screen.getByRole('button',{name:'概览'}));
   await u.click(screen.getByRole('button',{name:'新建项目'}));
   const modal=screen.getByRole('dialog',{name:'新建项目'});
   await u.type(within(modal).getByRole('textbox',{name:'项目名称'}),'验收项目');
@@ -65,6 +69,8 @@ describe('概览与跨页面流程',()=>{
   await u.click(within(modal).getByRole('button',{name:'确定'}));
   expect(window.location.hash).toMatch(/^#\/results\/created-/);
   expect(screen.getByRole('button',{name:'上传成果'})).toBeInTheDocument();
+  expect(screen.getByRole('button',{name:'最大化右侧内容'})).toBeInTheDocument();
+  expect(document.querySelector('.result-right-content')).toBeVisible();
   expect(screen.queryByRole('dialog',{name:'无浏览权限'})).not.toBeInTheDocument();
   const address=window.location.hash;
   await u.click(screen.getByRole('button',{name:'概览'}));
