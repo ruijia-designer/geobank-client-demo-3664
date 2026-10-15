@@ -56,7 +56,7 @@ Hash 路由支持刷新、前进及后退。例如 `#/overview`、`#/results/cur
 
 ## GitHub Pages 发布
 
-测试地址：https://ruijia-designer.github.io/geobank-client-demo-3664/
+测试地址：https://ruijia-designer.github.io/geobank-webclient-demo-3664/
 
 首次访问显示演示登录；用户名 Demo，密码 demo123。它不是安全访问保护，源码及资源公开。
 
