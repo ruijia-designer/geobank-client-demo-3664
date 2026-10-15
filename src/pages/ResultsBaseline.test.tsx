@@ -40,9 +40,13 @@ describe('成果页真实组件流程',()=>{
   expect(screen.getByRole('navigation',{name:'成果目录'})).toBeVisible();
   await user.click(screen.getByRole('button',{name:'恢复默认分屏'}));
   expect(info).toBeVisible();expect(right).toBeVisible();
-  expect(info.scrollTop).toBe(456);expect(right.scrollTop).toBe(345);
+  expect(info.scrollTop).toBe(123);expect(right.scrollTop).toBe(234);
   expect(lastApi.state.resultTab).toBe('gis');expect(lastApi.state.currentProjectId).toBe('current');
   expect(screen.queryByLabelText('已打开3个页签')).not.toBeInTheDocument();
+  await user.click(screen.getByRole('button',{name:'最大化右侧内容'}));
+  expect(right.scrollTop).toBe(345);
+  await user.click(screen.getByRole('button',{name:'最大化项目信息'}));
+  expect(info.scrollTop).toBe(456);
  });
  it('仅列表上传文件提供本地与远程菜单，本地无选择禁用，选择后添加文件',async()=>{const user=userEvent.setup();render(<Harness section="wells"/>);await user.click(screen.getByRole('button',{name:'上传成果'}));expect(screen.queryByText('本地上传')).not.toBeInTheDocument();await user.click(screen.getByRole('button',{name:'上传文件'}));expect(screen.getByRole('button',{name:'本地上传'})).toBeInTheDocument();expect(screen.getByRole('button',{name:'远程上传'})).toBeInTheDocument();expect(screen.queryByText('批量上传')).not.toBeInTheDocument();await user.click(screen.getByRole('button',{name:'本地上传'}));const dialog=screen.getByRole('dialog');expect(within(dialog).getByRole('button',{name:'上传'})).toBeDisabled();await user.upload(within(dialog).getByLabelText('选择本地文件'),new File(['abc'],'test.las',{type:'application/octet-stream'}));expect(within(dialog).getByText('test.las')).toBeInTheDocument();await user.click(within(dialog).getByRole('button',{name:'上传'}));expect(screen.queryByRole('dialog')).not.toBeInTheDocument();expect(screen.getByRole('button',{name:'test.las'})).toBeInTheDocument();expect(screen.queryByText('前缀与后缀均未配置')).not.toBeInTheDocument()});
  it('远程来源、目录、搜索、选择、刷新及上传相互关联',async()=>{const user=userEvent.setup();render(<Harness section="wells"/>);await user.click(screen.getByRole('button',{name:'上传文件'}));await user.click(screen.getByRole('button',{name:'远程上传'}));const dialog=screen.getByRole('dialog');expect(within(dialog).getByRole('button',{name:'上传'})).toBeDisabled();await user.selectOptions(within(dialog).getByLabelText('数据来源'),'57服务器-华北-解释项目');await user.click(within(dialog).getByRole('button',{name:'测井数据'}));expect(within(dialog).getByText('An18.las')).toBeInTheDocument();await user.type(within(dialog).getByLabelText('搜索文件名'),'An18');expect(within(dialog).queryByText('An19.las')).not.toBeInTheDocument();await user.click(within(dialog).getByLabelText('选择远程An18.las'));await user.click(within(dialog).getByRole('button',{name:'刷新文件列表'}));expect(notify).toHaveBeenCalledWith('远程演示文件列表已刷新');await user.click(within(dialog).getByRole('button',{name:'上传'}));expect(screen.queryByRole('dialog')).not.toBeInTheDocument();expect(screen.getAllByRole('button',{name:'An18.las'})).toHaveLength(2)});
